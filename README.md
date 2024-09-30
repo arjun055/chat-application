@@ -8,6 +8,9 @@ The project consists of three main files:
 - **chat_app.h**: Contains class definitions and the core logic.
 - **server.cpp**: Implements the server-side logic, including handling multiple clients with threads.
 - **client.cpp**: Implements the client-side logic for communicating with the server.
+- **main.cpp**: Contains initial implementations and trial code for the chat application before moving the logic to `chat_app.h`.
+
+
 
 ## Features
 
