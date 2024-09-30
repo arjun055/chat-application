@@ -1,0 +1,16 @@
+# Ignore the default executable
+a.out
+
+# Ignore any other executable files
+client
+server
+*.exe
+*.out
+
+# Ignore temporary or build files
+*.o
+*.obj
+*.log
+
+# Ignore VSCode settings
+.vscode/
